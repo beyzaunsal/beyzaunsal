@@ -8,4 +8,4 @@
 
 📧How to reach me:
    unsalbeyza678@gmail.com
-<img src="Resimler/Rlogo.png" width="250" height="100" alt="Örnek Resim"/>
+<img src="Proje1-consol/Resimler/Rlogo.png" width="250" height="100" alt="Örnek Resim"/>
