@@ -8,4 +8,3 @@
 
 📧How to reach me:
    unsalbeyza678@gmail.com
-![Rlogo](https://github.com/user-attachments/assets/5ff812ce-b2b8-4a49-82f1-4f13efe28499)" width="25" height="25" 
