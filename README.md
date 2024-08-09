@@ -8,4 +8,5 @@
 
 📧How to reach me:
    unsalbeyza678@gmail.com
-![Rlogo](https://github.com/user-attachments/assets/5ff812ce-b2b8-4a49-82f1-4f13efe28499)
+<img src="![Rlogo](https://github.com/user-attachments/assets/5ff812ce-b2b8-4a49-82f1-4f13efe28499)
+" width="250" height="100" alt="Örnek Resim"/>
