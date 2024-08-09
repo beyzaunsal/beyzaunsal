@@ -1,6 +1,6 @@
 Hi there 👋 
 
-Insurance & Actuarial Sciences Risk Management
+✨ Entrepreneur and Data Analyst | E-Commerce Strategist | SQL and Python
 
-R, Eviews, Python, Sql Server
+💯 R, Eviews, Python, Sql Server
 
