@@ -5,5 +5,7 @@
 🎓 Ankara University | Actuarial Sciences
 
 🎯 I'm currently learning SQL
+
+
 📧How to reach me:
    unsalbeyza678@gmail.com
